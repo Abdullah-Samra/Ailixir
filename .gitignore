@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+.venv/
+
+# Laravel / PHP
+/vendor/
+.env
+/node_modules/
+
+# Flutter / Dart
+.build/
+.dart_tool/
+.packages
+.idea/
+*.iml
+
+# general
+.DS_Store
+.vscode/
