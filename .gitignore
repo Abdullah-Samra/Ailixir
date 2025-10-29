@@ -20,3 +20,6 @@ venv/
 # general
 .DS_Store
 .vscode/
+
+
+files/
